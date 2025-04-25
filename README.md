@@ -21,3 +21,7 @@ Frontend: HTML, CSS, EJS
 Real-time Communication: Socket.io
 
 Chess Logic: Chess.js
+
+
+
+LIVE LINK --- https://chess-game-mx64.onrender.com/
